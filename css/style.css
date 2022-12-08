@@ -21,9 +21,10 @@ nav img{
 }
 header p{
     color: brown;
-    font-size: 12px;
+    font-size: 18px;
     font-weight: 100;
     text-align: center;
+    justify-content: center;
 }
 header div{
     text-align: center;
