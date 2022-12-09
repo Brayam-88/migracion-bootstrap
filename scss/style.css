@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+
+nav {
+  background-color: none;
+  text-decoration: none;
+  font-size: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: end;
+}
+
+nav img {
+  text-decoration: none;
+  flex: auto;
+  flex-direction: left;
+}
+
+header p {
+  color: brown;
+  font-size: 18px;
+  font-weight: 100;
+  text-align: center;
+  justify-content: center;
+}
+
+header div {
+  text-align: center;
+  font-size: 16px;
+}
+
+footer {
+  text-align: center;
+  font-size: 16px;
+}
+
+body header div img {
+  width: 100%;
+}
