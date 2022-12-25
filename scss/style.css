@@ -12,8 +12,13 @@ nav {
   text-align: end;
 }
 
+h2 {
+  text-align: center;
+  text-decoration: underline;
+}
+
 header p {
-  color: brown;
+  color: rgb(2, 0, 0);
   font-size: 18px;
   font-weight: 100;
   text-align: center;
@@ -27,6 +32,7 @@ header div {
 
 footer {
   display: flex;
+  background-color: #373636;
   font-size: 16px;
 }
 
@@ -35,7 +41,7 @@ body header div img {
 }
 
 .footer-section {
-  background: #151414;
+  background: #168d79;
   position: relative;
 }
 
@@ -56,14 +62,14 @@ body header div img {
 }
 
 .cta-text h4 {
-  color: #fff;
+  color: rgb(7, 7, 7);
   font-size: 20px;
   font-weight: 600;
   margin-bottom: 2px;
 }
 
 .cta-text span {
-  color: #757575;
+  color: #070202;
   font-size: 15px;
 }
 

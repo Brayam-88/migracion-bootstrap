@@ -10,9 +10,12 @@ nav{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: end;
 }
-
-header p {
-    color: brown;
+h2{
+  text-align: center;
+  text-decoration: underline;
+}
+header p  {
+    color: rgb(2, 0, 0);
     font-size: 18px;
     font-weight: 100;
     text-align: center;
@@ -32,9 +35,10 @@ body header div img {
     width: 100%;
 }
 .footer-section {
-    background: #9e1414;
+    background: #168d79;
     position: relative;
   }
+ 
   .footer-cta {
     border-bottom: 1px solid #373636;
   }
@@ -49,13 +53,13 @@ body header div img {
     display: inline-block;
   }
   .cta-text h4 {
-    color: #fff;
+    color: rgb(7, 7, 7);
     font-size: 20px;
     font-weight: 600;
     margin-bottom: 2px;
   }
   .cta-text span {
-    color: #757575;
+    color: #070202;
     font-size: 15px;
   }
   .footer-content {
